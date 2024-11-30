@@ -1,0 +1,8 @@
+gdown
+PyPDF2
+sentence-transformers
+openai
+numpy
+regex
+gradio
+os
